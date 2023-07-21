@@ -1,0 +1,4 @@
+Makro15.exe = 15cps
+Makro20.exe = 20cps
+
+Programı açtıktan sonra f tuşuna basılı tuttuğunuzda otomatik tıklamaya başlar 
